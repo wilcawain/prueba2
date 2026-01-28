@@ -1,0 +1,5 @@
+{
+  "name": "Diabetes Prediction & Analysis Dashboard",
+  "description": "A sophisticated machine learning-powered application for diabetes risk assessment, data visualization, and health insights using the Pima Indians Diabetes dataset.",
+  "requestFramePermissions": []
+}
